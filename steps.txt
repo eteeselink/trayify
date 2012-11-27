@@ -1,0 +1,6 @@
+TODO:
+
+* Create WndProc that polls for window status
+  * When minimized -> hide
+* Create Shell_NotifyIcon that has a "Show" command that re-shows the window
+* Shut down when the process shuts down
